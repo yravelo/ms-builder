@@ -16,6 +16,7 @@
 
     <modules>
         <module>../ms-root/</module>
+        <module>../ms-merchant-admin/</module>
     </modules>
 
 </project>
